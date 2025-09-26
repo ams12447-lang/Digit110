@@ -1,0 +1,10 @@
+Start = xml
+Xml = element xml
+Poem = element poem [head body]
+Title = element title
+Author = element author [langston hughes]
+date = element date 
+Level = attribute level [xsd:ID]
+lg = element lg [In]
+ln = element ln [n]
+n = attribute n [xsd:integer]
